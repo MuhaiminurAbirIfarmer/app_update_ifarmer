@@ -1,5 +1,6 @@
 {
   "latest_version": "2.5.0",
-  "version_code": "10",
+  "version_code": "146",
+  "minimum_version": "146",
   "force_update": true
 }
