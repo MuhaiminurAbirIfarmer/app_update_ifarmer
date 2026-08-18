@@ -2,5 +2,5 @@
   "latest_version": "2.5.0",
   "version_code": "148",
   "minimum_version": "145",
-  "force_update": true
+  "force_update": false
 }
