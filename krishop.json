@@ -1,6 +1,6 @@
 {
-  "latest_version": "7.1.7",
-  "version_code": "147",
-  "minimum_version": "147",
-  "force_update": false
+  "latest_version": "7.2.1",
+  "version_code": "151",
+  "minimum_version": "151",
+  "force_update": true
 }
