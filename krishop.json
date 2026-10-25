@@ -1,6 +1,6 @@
 {
-  "latest_version": "7.3.1",
-  "version_code": "158",
+  "latest_version": "7.3.w",
+  "version_code": "159",
   "minimum_version": "158",
-  "force_update": true
+  "force_update": false
 }
